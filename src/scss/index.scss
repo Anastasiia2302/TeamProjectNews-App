@@ -1,0 +1,28 @@
+@import './utils/variables';
+@import './utils/mixins';
+@import './utils/general';
+@import './utils/fonts';
+@import './utils/colors';
+
+@import './layouts/modalAuth';
+
+@import './layouts/switcherTheme';
+
+@import './components/calendar';
+@import './components/logo';
+@import './components/navigation';
+@import './components/formSearch';
+
+@import './components/news';
+@import './components/weather';
+
+@import './components/categories';
+
+@import './components/pagination';
+
+
+@import './layouts/footer';
+@import './components/backToTopBtn';
+@import './layouts/modalDevelopers';
+@import './layouts/homeRead';
+

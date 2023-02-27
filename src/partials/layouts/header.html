@@ -1,0 +1,33 @@
+<div class="sub-header" id="header"></div>
+<header class="header">
+  <div class="container header__container">
+    <include src="partials/components/logo.html"></include>
+
+    <div class="header__mobile-menu-container">
+      <include src="partials/components/navigation.html"></include>
+      <include src="partials/components/switcherLanguage.html"></include>
+      <div class="header__form-wrap">
+        <include src="partials/components/formSearch.html"></include>
+      </div>
+      <include src="partials/components/switcherTheme.html"></include>
+    </div>
+
+    <div class="mobile-buttons-wrapper">
+      <button class="header__search-form-opening-btn" type="submit">
+        <svg class="header__search-form-opening-icon" width="20" height="20">
+          <use href="./img/sprite.svg#icon-search-black"></use>
+        </svg>
+      </button>
+      <button type="button" class="menu-button-burger">
+        <svg class="icon" width="24" height="24">
+          <use href="./img/sprite.svg#icon-menu"></use>
+        </svg>
+        <svg class="icon" width="24" height="24">
+          <use href="./img/sprite.svg#icon-close"></use>
+        </svg>
+      </button>
+    </div>
+
+    <include src="partials/components/authBtnsHeader.html"></include>
+  </div>
+</header>
