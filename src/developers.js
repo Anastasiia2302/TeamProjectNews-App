@@ -37,7 +37,7 @@ doneTasks: "фавікон, розмітка формиполя пошуку н�
 linkedIn: "https://www.linkedin.com/in/anastasiia-herusova/",
 gitHub: "https://github.com/Anastasiia2302",
 mail: "nastia.herusova@gmail.com",
-telegram: "https://t.me/asyagermany",
+telegram: "",
 photo: AnastasiiaHerusova,
 role: "Developer",
 doneTasks: "спрайт з іконками, картинки заглушки, початок розмітки футера"},
